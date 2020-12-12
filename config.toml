@@ -18,9 +18,11 @@ theme = "hyde-hyde"
 [params]
     author = "Ryan Safner"
     title = "Title"
-    # description = "..."
-    authorimage = "/img/summer_2019.JPG"
+    description = "Assistant Professor of Economics at Hood College"
+    #authorimage = "/img/summer_2019.JPG"
     dateformat = "Jan 2, 2006"
+    # themeColor = "theme-base-0d"
+    # googleAnalytics = "Your tracking code"
 
     # sidebar, copyright & license
     #logoimage = "/img/hugo.png"
@@ -56,7 +58,7 @@ theme = "hyde-hyde"
     #telegram = "<username>"
     orcid = "0000-0002-6177-9308"
     email = "safner@hood.edu"
-    # gravatar = "your-email@example.com"
+    gravatar = "ryansafner@gmail.com"
     # pgpkey = "<path-to-your-key-in-/static>"
 
 ## Main Menu
