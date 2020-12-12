@@ -21,6 +21,7 @@ theme = "hyde-hyde"
     description = "Assistant Professor of Economics at Hood College"
     #authorimage = "/img/summer_2019.JPG"
     dateformat = "Jan 2, 2006"
+    mainSections = "about"
     # themeColor = "theme-base-0d"
     # googleAnalytics = "Your tracking code"
 
