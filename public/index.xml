@@ -91,15 +91,6 @@ Follow the following steps:
     </item>
     
     <item>
-      <title></title>
-      <link>https://upbeat-mcclintock-05ba11.netlify.app/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://upbeat-mcclintock-05ba11.netlify.app/teaching/</guid>
-      <description>Current Courses (Spring 2021)         ECON 306 - Microeconomic Analysis   ECON 315 - Economics of the Law    All Courses Taught Hood College (Fall 2016&amp;mdash;)         ECMG 212 - Statistics for Economics and Business   ECON 205 - Principles of Macroeconomics   ECON 304 - International Political Economy   ECON 306 - Microeconomic Analysis   ECON 316 - Game Theory   ECON 317 - Economics of Development   ECON 324 - International Trade   ECON 326 - Industrial Organization   ECON 410 - Public Economics   ECON 452 - History of Economic Thought   ECON 480 - Econometrics   MGMT 399 - Internship for Business Administration    Wake Forest University (Fall 2015&amp;mdash;Spring 2016)         ECN 150 - Introduction to Economics   ECN 272 - Austrian Economics    George Mason University (Summer 2013&amp;mdash;Summer 2015)         ECON 385 - International Economic Policy   ECON 403 - Austrian Economics   ICES High School Summer Workshops    </description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://upbeat-mcclintock-05ba11.netlify.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -109,6 +100,15 @@ Follow the following steps:
 I have a Ph.D and M.A. in Economics from George Mason University, and a B.A. in Economics from the University of Connecticut. Go Huskies!
 My research broadly explores the political economy of innovation, technological growth, and intellectual property using the tools of new institutional economics, public choice, and market process economics.
 I am a passionate user of R for data analysis, and R Markdown and GitHub for writing reproducible research, version control, and managing my workflow.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://upbeat-mcclintock-05ba11.netlify.app/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://upbeat-mcclintock-05ba11.netlify.app/teaching/</guid>
+      <description>Current Courses (Spring 2021)         ECON 306 - Microeconomic Analysis   ECON 315 - Economics of the Law    All Courses Taught Hood College (Fall 2016&amp;mdash;)         ECMG 212 - Statistics for Economics and Business   ECON 205 - Principles of Macroeconomics   ECON 304 - International Political Economy   ECON 306 - Microeconomic Analysis   ECON 316 - Game Theory   ECON 317 - Economics of Development   ECON 324 - International Trade   ECON 326 - Industrial Organization   ECON 410 - Public Economics   ECON 452 - History of Economic Thought   ECON 480 - Econometrics   MGMT 399 - Internship for Business Administration    Wake Forest University (Fall 2015&amp;mdash;Spring 2016)         ECN 150 - Introduction to Economics   ECN 272 - Austrian Economics    George Mason University (Summer 2013&amp;mdash;Summer 2015)         ECON 385 - International Economic Policy   ECON 403 - Austrian Economics   ICES High School Summer Workshops    </description>
     </item>
     
   </channel>

@@ -1,5 +1,5 @@
 ---
-slug: Teaching
+title: Teaching
 ---
 
 ## Current Courses (Spring 2021)
